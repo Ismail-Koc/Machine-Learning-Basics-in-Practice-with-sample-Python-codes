@@ -14,7 +14,7 @@ Citation & License
   If you use these scripts or snippets in your research or teaching, please cite the textbook:
   
   @book{mlbasics2026,
-  title={Machine Learning Basics},
+  title={Machine Learning Basics in Practice: with sample Python codes},
   author={Ismail Koc},
   year={2026},
   publisher={.....}
